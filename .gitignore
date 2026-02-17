@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+._*
+
+# Symlinked directories (synced via Dropbox)
+data
+docs
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+*.egg-info/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Build outputs
+build/
+dist/
