@@ -194,28 +194,91 @@ New Britain supports **14 endemic bird species** and, with New Ireland, forms th
 **Nakanai '93** was an Oxford University expedition to New Britain in 1993, funded by a **Future Conservationist Award** (the predecessor to the Conservation Leadership Programme, originally the BP Conservation Programme).
 
 ### Expedition details
+- **Dates:** 27 June – 16 September 1993 (12 weeks)
 - **Original objective:** Survey of the montane avifauna of the Nakanai Mountain range
 - **What happened:** Access problems forced abandonment of the original plan. In collaboration with the **Pacific Heritage Foundation** and the **West New Britain Provincial Government**, alternative projects were identified.
 - **Actual work:** Bird surveys, sound recordings, and population studies at three sites under threat from exploitation:
-  1. **Lake Hargy** — at the base of the Nakanai range
-  2. **The Bainings**
-  3. **Cape Glosta area** — near Mount Talawe
+  1. **Lake Hargy** — at the base of the Nakanai range (25–31 July)
+  2. **Wild Dog Gold Mine, the Bainings** (4–13 August)
+  3. **Cape Glosta area** — Hornbill Point (21–26 August) and Mount Talawe (27 August – 3 September)
 
 ### Team members
 - **Jonathan Clay** — expedition leader
 - **Nigel Gummerson** — team member (ornithology, kingfisher population study)
 - **Nick Mason** — team member (subsequently went to work for the RSPB)
 - **Jamie** — team member (surname and subsequent career unknown)
+- **Paulus** — PNG guide (accompanied the team from Port Moresby; departed before Cape Glosta)
+- Local collaborators: John Wijnand (Hargy Oil Palm, Bialla), Alan and Rita Morrow, Max Henderson (Kokomo), Marsha Bermann (WNBPG), Colin Campbell
+
+### Kingfisher records
+The expedition recorded **7 kingfisher species** on New Britain:
+
+| Species | Sites | Notes |
+|---|---|---|
+| **White-mantled Kingfisher** (*Halcyon albonotata*) | Wild Dog (1,000 m), Mount Talawe | Two pairs; perched in small trees/low bush beside tracks. Restricted-range endemic. |
+| **Bismarck's Kingfisher** (*Ceyx websteri*) | Lake Hargy, Mount Talawe | Observed fishing at Lake Hargy — diving from perch, returning with small fish. |
+| **Dwarf Kingfisher** (*Ceyx lepidus*) | Lake Hargy, Wild Dog, Mount Talawe | Rarely seen; mostly caught in mist nets. One seen at dusk near camp at Talawe. |
+| **Black-headed Paradise Kingfisher** (*Tanysiptera nigriceps*) | Wild Dog | One immature netted. Photographed in hand. |
+| **Sacred Kingfisher** (*Halcyon sancta*) | Throughout | Common in all habitats and altitudes. |
+| **Collared Kingfisher** (*Halcyon chloris*) | Hornbill Point | One record. |
+| **River Kingfisher** (*Alcedo atthis*) | Hornbill Point, Mount Talawe | Pair fishing on shore at Hornbill Point; occasional along river at Talawe. |
+
+### Itinerary
+| Dates | Location | Notes |
+|---|---|---|
+| 27 Jun | Depart UK | |
+| 29 Jun – 5 Jul | New Zealand | Auckland, Leigh field station |
+| 6–13 Jul | Port Moresby | Logistics, birding at Brown River with Ian Burrows |
+| 14 Jul | Arrive Hoskins, New Britain | Met by Hargy Oil Palm trucks |
+| 17–23 Jul | Trek to Nakanai foothills | Kamatami → Lele → Muela → Mile → Mukul. Abandoned — access impossible. |
+| 25–31 Jul | Lake Hargy | Bird surveys, mist netting, sound recordings |
+| 1–2 Aug | **MV Kondor** — Bialla to Rabaul | Coastal ferry |
+| 4–13 Aug | Wild Dog Gold Mine, the Bainings | Bird surveys, spot counts |
+| 13–14 Aug | **MV Kris** — Rabaul to Kimbe | **Sank two days later (see below)** |
+| 14–19 Aug | Kimbe | Stayed with Alan and Rita Morrow; planning Cape Glosta |
+| 20 Aug | Flew to Cape Gloucester | Light plane to Glosta airstrip |
+| 21–26 Aug | Hornbill Point | Hornbill counts, coastal bird surveys. **Witnessed Langila eruption.** |
+| 26 Aug | Driven to Aimola village | |
+| 27 Aug – 3 Sep | Mount Talawe (river camp) | Bird surveys, population density data |
+| 4 Sep | Sailed to Kimbe on Kimbe Express | |
+| 7 Sep | Return to Port Moresby | |
+| 12–16 Sep | Cairns, Auckland, home | Arrived Gatwick 16 September |
+
+### Historical events during the expedition
+
+#### Langila eruption, August 1993
+While camped at Hornbill Point (21–26 August), the team witnessed a "spectacular venting" of the volcano dominating Cape Glosta. The report attributes this to Mount Talawe, but the active volcano is **Langila** — a group of four overlapping cones built on the lower eastern flank of the extinct Talawe. Langila (11 km south of Cape Gloucester) is one of the most persistently active volcanoes in the Bismarck Arc.
+
+The Global Volcanism Program confirms Langila was active throughout 1993:
+- Jan–Mar: Vulcanian eruptions, incandescent material 80 m above summit
+- Apr–May: Strombolian explosions, gradually declining
+- Sep–Dec: Moderate eruptions at Craters 1 and 2
+
+The expedition photograph fills a gap in the GVP monthly bulletins for the Jun–Aug period, confirming ongoing activity through August 1993.
+
+Sources: [Global Volcanism Program — Langila](https://volcano.si.edu/volcano.cfm?vn=252010), [Langila — Wikipedia](https://en.wikipedia.org/wiki/Langila_volcano)
+
+#### Sinking of the MV Kris, August 1993
+The team sailed from Rabaul to Kimbe on the **MV Kris** on 13–14 August 1993. The report describes the vessel as "an old and smelly Japanese river ferry that had been 'converted' for ocean use". **The MV Kris capsized and sank approximately two days after the team disembarked**, with the loss of at least five lives (the expedition report variously records "at least four" and "eight" lives lost — the discrepancy reflects early vs. later information).
+
+The MV Kris was operated by **Peter Sharp**, a Scottish-born shipping operator based in PNG. An inquiry found Sharp had not ensured adequate crew numbers and that those present were not properly trained. No charges were brought.
+
+Sharp went on to operate the **MV Rabaul Queen**, which sank on 2 February 2012 off Morobe Province with the loss of **146–173 lives** — one of PNG's worst maritime disasters. Sharp was charged with 171 counts of manslaughter. The inquiry into the Rabaul Queen explicitly referenced the 1993 MV Kris sinking as a prior incident where Sharp had escaped accountability.
+
+Sources: [The Scotsman — Scots shipping boss linked to previous sinking](https://www.scotsman.com/news/world/scots-shipping-boss-is-linked-to-previous-sinking-2508327), [RNZ — Rabaul Queen owner committed to stand trial](https://www.rnz.co.nz/news/pacific/270846/rabaul-queen-owner-committed-to-stand-trial)
 
 ### Outputs
-- **Expedition report:** held by Nigel Gummerson (not published online)
+- **Expedition report:** held by Nigel Gummerson (not published online). Also available as 1995–96 web pages in project archive.
 - **Sound recordings:** deposited with BLOWS (British Library of Wildlife Sounds). New Britain Fruit Dove recordings confirmed; New Britain Kingfisher recordings — status unknown, needs checking.
+- **Photographs:** Kingfisher photos include Bismarck's Kingfisher, Dwarf Kingfisher, Black-headed Paradise Kingfisher (all in hand), plus Laughing Kookaburra (Cairns stopover). No photograph of the White-mantled Kingfisher.
+- **Conservation report:** Left with the West New Britain Provincial Government at Cape Glosta; reportedly used in a petition to the National Minister for Environment and Conservation regarding logging by the Lolo Development Corporation (Malaysian).
 - **CLP project page:** https://www.conservationleadershipprogramme.org/project/nakanai-93-oxford-university-expedition-new-britain-island-papua-new-guinea/
 
 ### Legacy
 - The expedition is not cited in the major subsequent publications on New Britain birds (Davis *et al.* 2018, Buchanan *et al.* 2008), nor in the RAP Bulletin chapter on Birds of the Nakanai Mountains.
 - A 1996 CLP follow-up noted the team leader did not confirm whether any follow-up work occurred.
-- The expedition report and any unpublished data may contain valuable baseline information predating the major oil palm expansion period (post-2000).
+- The expedition report and any unpublished data contain valuable baseline information predating the major oil palm expansion period (post-2000).
+- The White-mantled Kingfisher observations at Wild Dog (1,000 m) are near the upper limit of the species' known elevational range.
 
 ---
 

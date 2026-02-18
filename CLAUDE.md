@@ -56,13 +56,15 @@ personal/ornithology/kingfishers/
 - [ ] Consider a LaTeX write-up of findings
 
 ## Nakanai '93 Expedition
-- **Oxford University expedition, 1993** — funded by Future Conservationist Award (BP Conservation Programme, now CLP)
-- **Team:** Jonathan Clay (leader), Nigel Gummerson, Nick Mason, Jamie (surname unknown)
-- **Sites:** Lake Hargy, the Bainings, Cape Glosta (near Mount Talawe)
-- **Original plan** (montane Nakanai avifauna survey) abandoned due to access problems; redirected to three threatened lowland sites
-- **Partners:** Pacific Heritage Foundation, West New Britain Provincial Government
+- **Oxford University expedition, 27 Jun – 16 Sep 1993** (12 weeks) — Future Conservationist Award (BP Conservation Programme, now CLP)
+- **Team:** Jonathan Clay (leader), Nigel Gummerson, Nick Mason, Jamie (surname unknown), Paulus (PNG guide)
+- **Sites:** Lake Hargy (25–31 Jul), Wild Dog/Bainings (4–13 Aug), Hornbill Point (21–26 Aug), Mount Talawe (27 Aug – 3 Sep)
+- **Original plan** (montane Nakanai avifauna survey) abandoned due to access problems; redirected to threatened sites
+- **Partners:** Pacific Heritage Foundation, WNBPG (Marsha Bermann), Hargy Oil Palm (John Wijnand)
+- **7 kingfisher species recorded** — White-mantled (2 pairs: Wild Dog + Talawe), Bismarck's, Dwarf, Black-headed Paradise, Sacred, Collared, River
 - **Sound recordings deposited with BLOWS** — NB Fruit Dove confirmed; kingfisher status unknown
 - **Expedition report** not published online; not cited in subsequent NB bird literature
+- **Historical events:** Witnessed Langila eruption from Hornbill Point (Aug 1993); MV Kris sank ~2 days after team disembarked (5+ lives lost, operator Peter Sharp later charged over MV Rabaul Queen disaster 2012)
 - **CLP page:** https://www.conservationleadershipprogramme.org/project/nakanai-93-oxford-university-expedition-new-britain-island-papua-new-guinea/
 
 ## Notes
