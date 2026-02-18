@@ -5,6 +5,8 @@
 # Symlinked directories (synced via Dropbox)
 data
 docs
+literature
+media
 
 # Editor
 .vscode/
